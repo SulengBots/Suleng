@@ -1,6 +1,6 @@
 # SUPORT BY SULENG BOTS<br>
 # SULENG BOT TEAM & SULENG JUNIOR<br>
-# SELFBOT 1Sb 12asist 2ajs <br>
+# SELFBOT 1Sb 5asist 1ajs <br>
 
 # GUNAKAN DENGAN BIJAK <br>
 # SEKEDAR BERBAGI ILMU BIAR BISA BERKEMBANG KETIKA KAMU SUDH DI ATAS JANGAN PERNAH SOMBONG DENGAN KARYA KAMU KARNA DULU KAMU BUKAN SIAPA-SIAPA.. <br>
@@ -26,13 +26,13 @@ pip3 install pafy<br>
 pip3 install wikipedia <br> 
 pip3 install tweepy<br> 
 pip3 install youtube_dl<br> 
-cd arifbot<br> 
+cd 7suleng<br> 
 ls<br> 
-python3 arif.py<br> 
+python3 suleng.py<br> 
 
 
 Suport by: [TEAM BOT PROTECT]<br> 
-                Suleng Bot Team & Suleng Junior <br> 
+                Suleng Bot Team <br> 
           
 Note : Jika ingin instal pke vps tinggal tambah sudo di depan command<br> 
 
